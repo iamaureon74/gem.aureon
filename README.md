@@ -39,6 +39,8 @@ first visit it works fully offline and can be installed as an app.
   samples 2,000 random words of the same length under the same cipher and
   reports how often they also match, so a hit is read as rare or expected rather
   than just asserted.
+- **Save a reading** — download the current analysis (cipher values, vowels,
+  corpus matches) as a plain-text file; computed on-device, nothing transmitted.
 - **Corpus match graph** — the matches tab shows the word at the centre of a
   radial graph with every corpus word of the same value on the ring, each a
   clickable node.
